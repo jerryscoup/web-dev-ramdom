@@ -5,7 +5,7 @@ const randInt = (min, max) => {
 let rr = randInt(55, 255);
 let gg = randInt(55, 255);
 let bb = randInt(55, 255);
-// KrishnaCodingCorner
+
 // store the timeout so we can cancel it if we spin again or change the number of emojis mid-spin
 let spinTimeout = false;
 
